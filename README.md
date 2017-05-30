@@ -8,8 +8,6 @@ The strategy pattern (also known as the policy pattern) is a behavioural softwar
 
 #### Object Oriented Priciples enforced or supported by the Strategy Pattern
 
-The strategy pattern enforces and supports the following basic object oriented design principles
-
 - Encapsulate what varies
 - Favor composition over inheritance
 - Program to interfaces, not implementations
